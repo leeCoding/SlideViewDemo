@@ -62,6 +62,7 @@
     }
 }
 
+/* 配置侧滑 */
 -(LTDownListView *)getListView {
     
     if (!_downListView) {
